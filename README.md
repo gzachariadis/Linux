@@ -3,7 +3,6 @@ A guide to securing and operating Linux as a daily driver.
 
 - Set a secondary keyboard to Russian - Most ransomware "strains" do not deploy when a Russian keyboard setting is detected.
 
-
 ## Operating Systems
 
 - [Whonix](https://www.whonix.org/)
@@ -13,4 +12,8 @@ A guide to securing and operating Linux as a daily driver.
 
 - [LibreWolf](https://librewolf.net/)
 
+## Email Clients
+
+- [The Mutt E-Mail Client](http://www.mutt.org/)
+- [NeoMutt](https://neomutt.org/)
 
