@@ -30,6 +30,7 @@ A guide to securing and operating Linux as a daily driver.
 ## Firewall
 
 - [OpenSwitch](https://github.com/evilsocket/opensnitch)
+- [Shorewall](https://shorewall.org/)
 
 ## Network Traffic Monitor
 
