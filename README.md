@@ -43,6 +43,9 @@ I created this repository as a storage space for everything regarding installing
 
 - [Whonix](https://www.whonix.org/)
 - [Qubes](https://www.qubes-os.org/)
+- [Gentoo](https://www.gentoo.org/)
+- [Alpine](https://alpinelinux.org/)
+- [Fedora]()
 
 ## Applications
 
