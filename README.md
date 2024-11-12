@@ -16,7 +16,6 @@ I created this repository as a storage space for everything regarding installing
     - [Notes](#notes)
     - [Maintenance](#maintenance)
     - [Music Player](#music-player)
-    - [Docks](#docks)
     - [Launcher](#launcher)
     - [Spotify](#spotify)
     - [Podcasts](#podcasts)
@@ -72,7 +71,6 @@ I created this repository as a storage space for everything regarding installing
 ### Firewall
 
 - [OpenSwitch](https://github.com/evilsocket/opensnitch)
-- [Shorewall](https://shorewall.org/)
 - [FirewallD](https://github.com/firewalld/firewalld)
 - [Gufw](https://gufw.org/)
 - [Fail2Ban](https://github.com/fail2ban/fail2ban)
@@ -93,11 +91,6 @@ I created this repository as a storage space for everything regarding installing
 
 - [Deepin Music](https://www.deepin.org/en/original/deepin-music/)
 - [MellowPlayer](https://colinduquesnoy.gitlab.io/MellowPlayer/)
-- [Museeks](https://museeks.io/)
-
-### Docks
-
-- [Latte Dock](https://store.kde.org/p/1169519/)
 
 ### Launcher
 
@@ -105,18 +98,9 @@ I created this repository as a storage space for everything regarding installing
 - [Cerebro](https://www.cerebroapp.com/)
 - [Ulauncher](https://ulauncher.io/)
 
-### Spotify
-
-- [Spotio](https://github.com/devinhalladay/spotio)
-- [Spotube]()
-
-### Podcasts
-
-- [Vocal](https://vocalproject.net/)
-
 ### Social Media
 
-- [Messenger Desktop - Caprine](https://sindresorhus.com/caprine/)
+- [Messenger Desktop - Caprine](https://github.com/sindresorhus/caprine)
 
 ### Emulation
 
@@ -124,30 +108,20 @@ I created this repository as a storage space for everything regarding installing
 
 ### Utillity
 
-- [Pick - Color Picker](https://www.kryogenix.org/code/pick/)
 - [Exif Cleaner - Remove Metadata from Pictures](https://exifcleaner.com/)
-- [Phockup - Sort Tool for organizing photos and videos](https://github.com/ivandokov/phockup)
 - [Flux](https://justgetflux.com/linux.html)
-- [[rm]lint](https://rmlint.readthedocs.io/en/latest/)
-- [scrcpy - Android device mirroring service](https://github.com/Genymobile/scrcpy)
 - [Trimage - Image Compressor](https://trimage.org/)
 - [WorkRave - Take a break and relax](https://workrave.org/)
-- [Flameshot - Screenshots](https://github.com/flameshot-org/flameshot)
 
 ### File Managers
 
-- [Dophin](https://userbase.kde.org/Dolphin)
+- [Dophin](https://apps.kde.org/dolphin/)
 
 ### Image Viewers
 
-- [Geeqie](https://www.geeqie.org/#features)
-- [gThumb](https://wiki.gnome.org/Apps/Gthumb)
-- [Gwenview](https://userbase.kde.org/Gwenview)
-- [Imagine](https://github.com/meowtec/Imagine)
-- [NoMacs](https://nomacs.org/)
-- [QuickViewer](https://kanryu.github.io/quickviewer/)
-- [Shotwell](https://wiki.gnome.org/Apps/Shotwell)
-- [Photivo](https://photivo.org/)
+- [gThumb](https://github.com/GNOME/gthumb)
+- [Gwenview](https://github.com/KDE/gwenview)
+- [Shotwell](https://gitlab.gnome.org/GNOME/shotwell)
 
 ### Video Player
 
@@ -156,10 +130,6 @@ I created this repository as a storage space for everything regarding installing
 ### Clipboard Manager 
 
 - [CopyQ](https://hluk.github.io/CopyQ/)
-
-### Video Editor
-
-- [Olive](https://www.olivevideoeditor.org/)
 
 ### Text Expanders
 
@@ -176,7 +146,7 @@ I created this repository as a storage space for everything regarding installing
 
 ### PDF Readers
 
-- [Mupdf -  Managing PDF documents](https://mupdf.com/)
+- [Mupdf -  Managing PDF documents](https://www.mupdf.com/)
 - [Okular](https://okular.kde.org/)
 
 ### Tiling Window Manager
@@ -202,7 +172,6 @@ I created this repository as a storage space for everything regarding installing
 
 - [Srm - Remove files securely](https://www.systutorials.com/docs/linux/man/1-srm/)
 - [Lynis](https://cisofy.com/lynis/)
-
 
 # Tips
 
