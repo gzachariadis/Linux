@@ -51,6 +51,7 @@ I created this repository as a storage space for everything regarding installing
 ### Browsers
 
 - [LibreWolf](https://librewolf.net/)
+- [Min Browser](https://minbrowser.org/)
 
 ### Email Clients
 
@@ -82,6 +83,8 @@ I created this repository as a storage space for everything regarding installing
 ### Notes
 
 - [Affine.pro](https://affine.pro/)
+- [UpNote](https://getupnote.com/)
+- [Foam](https://foambubble.github.io/foam/)
 
 ### Maintenance
 
@@ -106,12 +109,26 @@ I created this repository as a storage space for everything regarding installing
 
 - [Waydroid - Android System Emulator](https://waydro.id/)
 
-### Utillity
+### Metadata Removal
 
 - [Exif Cleaner - Remove Metadata from Pictures](https://exifcleaner.com/)
+- [Metadata Cleaner](https://metadatacleaner.romainvigier.fr/)
+
+### File Removal
+
+- [Czkawka](https://github.com/qarmin/czkawka)
+- [Shredder](https://rmlint.readthedocs.io/en/latest/gui.html)
+
+### Music
+
+- [MusicBrainz Picard](https://picard.musicbrainz.org/)
+
+### Utillity
+  
 - [Flux](https://justgetflux.com/linux.html)
 - [Trimage - Image Compressor](https://trimage.org/)
 - [WorkRave - Take a break and relax](https://workrave.org/)
+- [ActivityWatch](https://activitywatch.net/)
 
 ### File Managers
 
@@ -122,6 +139,8 @@ I created this repository as a storage space for everything regarding installing
 - [gThumb](https://github.com/GNOME/gthumb)
 - [Gwenview](https://github.com/KDE/gwenview)
 - [Shotwell](https://gitlab.gnome.org/GNOME/shotwell)
+
+https://github.com/LycheeOrg/Lychee
 
 ### Video Player
 
@@ -168,6 +187,10 @@ I created this repository as a storage space for everything regarding installing
 - [Snort](https://www.snort.org/)
 - [ClamAV](https://www.clamav.net/)
 
+### OCR 
+
+- [PDF2Go](https://snapcraft.io/pdf2go)
+  
 ### Guides
 
 - [Srm - Remove files securely](https://www.systutorials.com/docs/linux/man/1-srm/)
