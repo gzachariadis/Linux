@@ -196,9 +196,41 @@ https://github.com/LycheeOrg/Lychee
 - [Srm - Remove files securely](https://www.systutorials.com/docs/linux/man/1-srm/)
 - [Lynis](https://cisofy.com/lynis/)
 
-# Tips
 
-- Set a secondary keyboard to Russian - Most ransomware "strains" do not deploy when a Russian keyboard setting is detected.
+## Randoms
+
+- https://nota.md/
+- https://apps.apple.com/us/app/diagrams/id1276248849?mt=12
+- https://highlighted.app/
+- https://kindle-formatter.com/
+- https://www.literatureandlatte.com/scrivener/overview
+- https://ettoresoftware.store/mac-apps/typeit4me/
+- https://www.keysmith.app/examples
+- https://toastlog.com/
+- https://www.bresink.com/osx/SyncChecker.html
+- https://www.bookstackapp.com/
+- https://www.zotero.org/
+- https://dashword.app/
+- https://gohustl.co/
+- https://openaudible.org/
+- https://www.jabref.org/
+- https://tabby.sh/
+- https://penpot.app/
+- https://github.com/geigi/cozy
+- https://www.mindforger.com/
+- https://gitlab.gnome.org/World/obfuscate/
+- https://justgetflux.com/linux.html
+- https://github.com/popcorn-official/popcorn-desktop
+- https://blot.im/
+- https://github.com/nextcloud/bookmarks
+- https://vikunja.io/
+- https://github.com/janeczku/calibre-web
+- https://joinbookwyrm.com/
+
+
+
+
+
 
 # Sources
 
